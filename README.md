@@ -19,5 +19,7 @@ My guide on how to update bios on the Dell PowerEdge R710 server
 - 
 ## Step 1: Preparing the USB
 
-  First you need to get the bios on the USB somehow. Go onto this website <a href="https://rufus.ie/">Rufus</a>
-  
+  First you need to get the bios on the USB somehow. Go onto this website <a href="https://rufus.ie/">Rufus. </a>
+Then download the executable file from here ![IMG_6015](https://github.com/user-attachments/assets/cc74a2aa-9485-4b05-866f-4c8212378ab0)</br>
+I highly reccomend the version with the "p" at the end. The "p" stands for portable so it does not installation. Next you need to get the iso file for bios.
+
